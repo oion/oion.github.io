@@ -21,7 +21,8 @@ body {
 	height: auto;
 	opacity: .2;
 }
-#lines {
+#typed-strings,
+.text-lines {
 	display: none;
 }
 main {
@@ -31,7 +32,15 @@ main {
 	justify-content: center;
 	font-size: 2em;
 }
-#bot {
+.typed-complete {
+	transition: all 1s ease-in-out;
+}
+.typed-complete:hover {
+	letter-spacing:.1em;
+	transform: scale(1.5);
+}
+.bot.typed-complete .typed-cursor {
+	display: none;
 }
 .typed-cursor{
 	display: inline-block;

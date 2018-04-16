@@ -17,17 +17,27 @@ $(function() {
 				} else {
 					greeting = 'Good Evening.';
 				}
-				$('#greeting').html(greeting);
-				console.log($('#greeting').html());	
+				$('.greeting').html(greeting);
 		}
 		
 		function typingAnimation() {
-			$("#bot").typed({
-				stringsElement: $('#lines'),
-				typeSpeed: 0,
-				loop: true,
-				backDelay: 1000,
+			var typed = new Typed(".lines", {
+				stringsElement: '.text-lines',
+				typeSpeed: 20,
+				backSpeed: 20,
+				startDelay: 1000,
+				loop: false,
+				loopCount: Infinity,
+				onComplete: function(self) { 
+					console.log(self.el);
+					$('.bot').addClass('typed-complete')
+				},
+
 			});
+		}
+		
+		function prettyLog(str) {
+  		console.log('%c ' + str, 'color: green; font-weight: bold;');
 		}
 		
 	});
