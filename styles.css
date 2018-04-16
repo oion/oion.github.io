@@ -9,6 +9,18 @@ body {
 	background: #111;
 	color: #eee;
 }
+.logo {
+	position: absolute;
+	bottom: 40px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.logo__svg {
+	fill: #fff;
+	width: 2em;
+	height: auto;
+	opacity: .2;
+}
 #lines {
 	display: none;
 }
