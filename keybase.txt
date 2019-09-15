@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fingerontheweb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ovidiuion.com
+  * I am fingerontheweb (https://keybase.io/fingerontheweb) on keybase.
+  * I have a public key ASDjBX0Hsj2R_XtsvUDyaoivSA-0HtU-We4IS-XW36zK7Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e3057d07b23d91fd7b6cbd40f26a88af480fb41ed53e59ee084be5d6dfaccaec0a",
+      "host": "keybase.io",
+      "kid": "0120e3057d07b23d91fd7b6cbd40f26a88af480fb41ed53e59ee084be5d6dfaccaec0a",
+      "uid": "d9cce7bdba0792c488add6eb76904919",
+      "username": "fingerontheweb"
+    },
+    "merkle_root": {
+      "ctime": 1568547956,
+      "hash": "6018e106b9c289d1fd2b5b2183ca1b66219b80973ac491870b157283b376d82ee80100508670562957894489b46e6bcc3a201ad5c8b51ae468eb4e6f8ebb22e6",
+      "hash_meta": "c682c4ad82a1288ea8a66a434e026cd1d3617f2e29f0afde4dc4e53f0b3bd5e0",
+      "seqno": 7389193
+    },
+    "service": {
+      "entropy": "ockS2P2cZKO3JcsZGEiBvDON",
+      "hostname": "ovidiuion.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568547975,
+  "expire_in": 504576000,
+  "prev": "55229a7cf1b3dd9f65aa6ef82c3603fba05e0aa678a66011072a7830ae5df709",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4wV9B7I9kf17bL1A8mqIr0gPtB7VPlnuCEvl1t+syuwKp3BheWxvYWTESpcCCMQgVSKafPGz3Z9lqm74LDYD+6BeCqZ4pmARByp4MK5d9wnEIEOBsM1W1HI5alZ4u+CoUlVUvkzDgV9Uvx/DONOTMYRcAgHCo3NpZ8RAL2+qhubFyd3CbGLcLD5Tho1hBkOTirZW36yMTVYDL3NWh0uQa5Bxe/Vpi7YwyjpDWXlxh9hqbQpFcMGdjgiJAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOBb7+1/WNUsgfmBDfh8c7+9NtklRGyHAIUsyJ3SH2yYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fingerontheweb
+
+==================================================================
